@@ -1,9 +1,12 @@
 {
   "userEmail": "mixta971@hotmail.fr",
   "userName": "Mixta",
-  "lastOpenedRepository": "/home/mixta",
+  "lastOpenedRepository": "/home/mixta/.git",
   "defaultTerminal": "xfce4-terminal",
   "ui": {
     "theme": "light"
+  },
+  "fileNodeList": {
+    "sort": "name_descending"
   }
 }

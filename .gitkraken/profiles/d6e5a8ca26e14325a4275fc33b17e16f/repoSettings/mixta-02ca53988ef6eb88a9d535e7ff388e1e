@@ -1,3 +1,22 @@
 {
-  "remoteParents": {}
+  "remoteParents": {
+    "github": {
+      "MiguelAdige": {
+        "dotfiles": {
+          "hostingServiceType": "github",
+          "owner": "MiguelAdige",
+          "name": "dotfiles"
+        }
+      }
+    }
+  },
+  "collapsedSections": [],
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "timestamps": [
+        1495565500530
+      ],
+      "total": 1
+    }
+  }
 }
