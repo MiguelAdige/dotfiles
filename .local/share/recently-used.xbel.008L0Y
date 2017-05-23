@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_mixta0/google-chrome-stable_current_amd64.deb" added="2017-05-22T19:49:00Z" modified="2017-05-22T19:49:00Z" visited="2017-05-22T19:49:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:49:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/Arc-OSX-HDPI-XFCE-edition.tar.gz" added="2017-05-22T19:58:09Z" modified="2017-05-22T20:19:41Z" visited="2017-05-22T19:58:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:58:09Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-22T20:19:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/Arc-OSX-MID-XFCE-edition.tar.gz" added="2017-05-22T19:58:18Z" modified="2017-05-22T20:20:07Z" visited="2017-05-22T19:58:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:58:18Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-22T20:20:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta" added="2017-05-22T20:19:50Z" modified="2017-05-22T20:19:50Z" visited="2017-05-22T20:19:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-05-22T20:19:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/menulibre" added="2017-05-22T20:33:37Z" modified="2017-05-22T20:33:37Z" visited="2017-05-22T20:33:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-keyboard-settings" exec="&apos;xfce4-keyboard-settings %u&apos;" modified="2017-05-22T20:33:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/google-chrome-stable_current_amd64.deb" added="2017-05-22T20:52:47Z" modified="2017-05-22T20:52:47Z" visited="2017-05-22T20:52:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T20:52:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

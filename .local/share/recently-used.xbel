@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_mixta0/google-chrome-stable_current_amd64.deb" added="2017-05-22T19:49:00Z" modified="2017-05-22T19:49:00Z" visited="2017-05-22T19:49:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:49:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/Arc-OSX-HDPI-XFCE-edition.tar.gz" added="2017-05-22T19:58:09Z" modified="2017-05-22T20:19:41Z" visited="2017-05-22T19:58:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:58:09Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-22T20:19:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/Arc-OSX-MID-XFCE-edition.tar.gz" added="2017-05-22T19:58:18Z" modified="2017-05-22T20:20:07Z" visited="2017-05-22T19:58:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T19:58:18Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-22T20:20:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta" added="2017-05-22T20:19:50Z" modified="2017-05-23T18:32:14Z" visited="2017-05-22T20:19:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-05-22T20:19:50Z" count="1"/>
+          <bookmark:application name="gitkraken" exec="&apos;gitkraken %u&apos;" modified="2017-05-23T18:32:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/menulibre" added="2017-05-22T20:33:37Z" modified="2017-05-22T20:33:37Z" visited="2017-05-22T20:33:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-keyboard-settings" exec="&apos;xfce4-keyboard-settings %u&apos;" modified="2017-05-22T20:33:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/google-chrome-stable_current_amd64.deb" added="2017-05-22T20:52:47Z" modified="2017-05-22T20:52:47Z" visited="2017-05-22T20:52:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-22T20:52:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/PhpStorm-2017.1.4.tar.gz" added="2017-05-22T21:33:53Z" modified="2017-05-22T21:33:53Z" visited="2017-05-22T21:33:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-22T21:33:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/T%C3%A9l%C3%A9chargements/arc-flatabulous-theme-master.zip" added="2017-05-23T17:33:44Z" modified="2017-05-23T17:36:24Z" visited="2017-05-23T17:33:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-23T17:36:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.gitignore" added="2017-05-23T18:37:29Z" modified="2017-05-23T18:46:06Z" visited="2017-05-23T18:37:30Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:46:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.bash_history" added="2017-05-23T18:41:11Z" modified="2017-05-23T18:41:11Z" visited="2017-05-23T18:41:11Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:41:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.bash_logout" added="2017-05-23T18:41:22Z" modified="2017-05-23T18:41:22Z" visited="2017-05-23T18:41:22Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:41:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.bashrc" added="2017-05-23T18:41:30Z" modified="2017-05-23T18:41:30Z" visited="2017-05-23T18:41:31Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:41:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.profile" added="2017-05-23T18:42:08Z" modified="2017-05-23T18:42:08Z" visited="2017-05-23T18:42:08Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:42:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.sudo_as_admin_successful" added="2017-05-23T18:43:00Z" modified="2017-05-23T18:43:00Z" visited="2017-05-23T18:43:00Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:43:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.Xdefaults" added="2017-05-23T18:43:25Z" modified="2017-05-23T18:43:25Z" visited="2017-05-23T18:43:26Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:43:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.xscreensaver" added="2017-05-23T18:43:32Z" modified="2017-05-23T18:43:32Z" visited="2017-05-23T18:43:32Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:43:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/.xsession-errors" added="2017-05-23T18:43:35Z" modified="2017-05-23T18:43:35Z" visited="2017-05-23T18:43:35Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:43:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mixta/README.md" added="2017-05-23T18:43:58Z" modified="2017-05-23T18:43:58Z" visited="2017-05-23T18:43:58Z">
+    <desc>Jeu de caractères: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-05-23T18:43:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

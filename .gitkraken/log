@@ -1,0 +1,184 @@
+{
+  "log": [
+    {
+      "actionName": "registration_action_check_password_strength",
+      "count": 1,
+      "totalMS": 423
+    },
+    {
+      "actionName": "app_settings_action_set",
+      "count": 62,
+      "totalMS": 10
+    },
+    {
+      "actionName": "registration_action_login",
+      "count": 1,
+      "totalMS": 819
+    },
+    {
+      "actionName": "registration_action_check_for_eula_update",
+      "count": 1,
+      "totalMS": 13
+    },
+    {
+      "actionName": "git_config_action_set",
+      "count": 2,
+      "totalMS": 19
+    },
+    {
+      "actionName": "profile_settings_action_set",
+      "count": 5,
+      "totalMS": 2
+    },
+    {
+      "actionName": "registration_action_phone_home",
+      "count": 1,
+      "totalMS": 146
+    },
+    {
+      "actionName": "hosting_service_action_get_user_related_repos_from_active_hosts",
+      "count": 1,
+      "totalMS": 3
+    },
+    {
+      "actionName": "hosting_service_action_get_orgs_from_all",
+      "count": 1,
+      "totalMS": 5
+    },
+    {
+      "actionName": "hosting_service_action_get_user_from_all",
+      "count": 1,
+      "totalMS": 5
+    },
+    {
+      "actionName": "refresh_action_refresh_repo",
+      "count": 17,
+      "totalMS": 240604
+    },
+    {
+      "actionName": "prompt_action_add",
+      "count": 1,
+      "totalMS": 0
+    },
+    {
+      "actionName": "repo_action_open",
+      "count": 2,
+      "totalMS": 107753
+    },
+    {
+      "actionName": "prompt_action_close",
+      "count": 1,
+      "totalMS": 0
+    },
+    {
+      "actionName": "stash_action_refresh",
+      "count": 12,
+      "totalMS": 3516
+    },
+    {
+      "actionName": "submodule_action_refresh",
+      "count": 12,
+      "totalMS": 3693
+    },
+    {
+      "actionName": "git_flow_action_refresh",
+      "count": 13,
+      "totalMS": 5198
+    },
+    {
+      "actionName": "ref_action_fetch_all",
+      "count": 16,
+      "totalMS": 72058
+    },
+    {
+      "actionName": "ref_action_autoFetch",
+      "count": 16,
+      "totalMS": 72074
+    },
+    {
+      "actionName": "pull_request_action_fetch_all",
+      "count": 16,
+      "totalMS": 48
+    },
+    {
+      "actionName": "workdir_action_refresh",
+      "count": 217,
+      "totalMS": 307312
+    },
+    {
+      "actionName": "ref_action_update_merge_head",
+      "count": 217,
+      "totalMS": 460277
+    },
+    {
+      "actionName": "commit_action_refresh",
+      "count": 1,
+      "totalMS": 10
+    },
+    {
+      "actionName": "refresh_action_refresh_success",
+      "count": 230,
+      "totalMS": 62
+    },
+    {
+      "actionName": "commit_action_select",
+      "count": 3,
+      "totalMS": 60
+    },
+    {
+      "actionName": "refresh_action_queue_refresh_types",
+      "count": 230,
+      "totalMS": 1107238
+    },
+    {
+      "actionName": "search_action_update_index",
+      "count": 1,
+      "totalMS": 1189
+    },
+    {
+      "actionName": "repo_action_create",
+      "count": 1,
+      "totalMS": 108952
+    },
+    {
+      "actionName": "repo_action_find_parent",
+      "count": 1,
+      "totalMS": 823
+    },
+    {
+      "actionName": "ref_action_fetch",
+      "count": 15,
+      "totalMS": 70610
+    },
+    {
+      "actionName": "git_config_action_refresh",
+      "count": 1,
+      "totalMS": 340
+    },
+    {
+      "actionName": "diff_action_calc_diff",
+      "count": 1,
+      "totalMS": 44
+    },
+    {
+      "actionName": "workdir_action_update_diffs",
+      "count": 8,
+      "totalMS": 18643
+    },
+    {
+      "actionName": "workdir_action_update_hunk",
+      "count": 7,
+      "totalMS": 11484
+    },
+    {
+      "actionName": "workdir_action_stage_paths",
+      "count": 2,
+      "totalMS": 23089
+    },
+    {
+      "actionName": "workdir_action_unstage_paths",
+      "count": 1,
+      "totalMS": 5013
+    }
+  ]
+}

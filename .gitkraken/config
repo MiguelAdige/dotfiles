@@ -1,0 +1,28 @@
+{
+  "lastUpgradeScriptRun": "v2.2.0",
+  "appId": "d1e9e02a823e245d7f3f61f4ea3cadbb0c325ad7",
+  "windowSettings": {
+    "x": 502,
+    "y": 98,
+    "width": 1024,
+    "height": 1093,
+    "fullScreen": false,
+    "maximized": true
+  },
+  "registration": {
+    "email": "mixta971@hotmail.fr",
+    "name": "Mixta",
+    "status": "activated",
+    "trialStatus": null,
+    "loginType": "username_and_password",
+    "providerToken": null,
+    "date": "2017-05-23T18:32:00.458Z",
+    "EULA": {
+      "version": "1.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "69e22b69-c93f-450b-956e-665720f66286",
+  "licensedFeatures": [],
+  "hasSeenNewUserOnboarding": true
+}

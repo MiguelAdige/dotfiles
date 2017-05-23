@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-compressed-tar=file-roller.desktop;
+application/vnd.debian.binary-package=gnome-software-local-file.desktop;
+text/plain=mousepad.desktop;
+application/zip=file-roller.desktop;
+application/octet-stream=sublime_text.desktop;exo-file-manager.desktop;
+application/x-trash=exo-file-manager.desktop;
+text/markdown=mousepad.desktop;
